@@ -36,11 +36,11 @@ The trained MLP model achieved an accuracy of approximately 97.43% on the test d
 
 To use this code, follow these steps:
 
-1. Clone this repository to your local machine:
+1. To get started, clone this repository using the following command:
 
-   ```bash
-   [git clone <repository_url>](https://github.com/ericmaniraguha/deep_learning_pytorch_claassification.git)
-   
+```bash
+git clone https://github.com/ericmaniraguha/deep_learning_pytorch_claassification.git
+```
 `pip install torch torchvision matplotlib` - Install the required libraries (PyTorch, torchvision, and matplotlib) using the following 
 `python mnist_mlp.py` - Run the provided Python script to train, evaluate, and save the MLP model
 
